@@ -1,2 +1,2 @@
 # tec_ti_102_24
-Repositório para al
+Repositório para aula
